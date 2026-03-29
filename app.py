@@ -16,7 +16,7 @@ st.set_page_config(
 # -----------------------------------
 @st.cache_resource
 def load_model():
-    model = joblib.load("/Users/vedchakre/Desktop/Addiction_prediction/model/phone_addiction_prediction_model.pkl")
+    model = joblib.load("model/phone_addiction_prediction_model.pkl")
     return model
 
 pipeline = load_model()
