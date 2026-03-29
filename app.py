@@ -6,7 +6,7 @@ import joblib
 # PAGE CONFIG
 # -----------------------------------
 st.set_page_config(
-    page_title="Student Stress Predictor",
+    page_title="Phone Addicition Predictor",
     page_icon="🧠",
     layout="centered"
 )
