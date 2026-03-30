@@ -35,7 +35,7 @@ st.sidebar.info(
 # -----------------------------------
 # TITLE
 # -----------------------------------
-st.title("🧠 Student Stress Level Predictor")
+st.title("Phone Addiction Predictor")
 st.markdown("Fill in the details below and click **Predict**.")
 
 st.divider()
